@@ -1,0 +1,16 @@
+name: data-driven-modeling
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.11,<3.13
+  - ipykernel
+  - jupyterlab
+  - numpy
+  - pandas
+  - scipy
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - tpot
+  - requests
+prefix: ./envs
