@@ -11,6 +11,5 @@ dependencies:
   - matplotlib
   - seaborn
   - scikit-learn
-  - tpot
   - requests
 prefix: ./envs
